@@ -2,7 +2,7 @@
 
 ## Visual impression estimation system considering attribute information
 
- The data used in this paper are not publicly available due to privacy concerns.They can be requested from the author at taki@cv.info.gifu-u.ac.jp.
+The data used in this paper are not publicly available due to privacy concerns. They can be requested from the author at taki@cv.info.gifu-u.ac.jp.
 
 ## Install
 ```
